@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>resttest</name>
 	<description>Demo project for Spring REST-ful service</description>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<!-- comment -->
 	<properties>
 		<java.version>1.8</java.version>
